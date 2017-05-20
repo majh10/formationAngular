@@ -10,6 +10,7 @@ export class AppComponent {
   titleApp = 'app works!';
   linksApp: Array<Link> = [
     {path: '', name: 'Home'},
-    {path: 'about', name: 'About'}
+    {path: 'about', name: 'About'},
+    {path: 'formation', name: 'Formation'}
   ] ;
 }

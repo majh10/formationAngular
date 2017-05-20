@@ -1,0 +1,7 @@
+{
+  "formations": [
+    { "id": 1, "title": "java", "description": "Formation JAVA" },
+    { "id": 2, "title": "angular", "description": "Formation Angular" },
+    { "id": 3, "title": "spring", "description": "Formation Spring" }
+  ]
+}
